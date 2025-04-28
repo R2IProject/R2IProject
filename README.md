@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @R2IProject
+- 👋 Hi, I’m @R2IProject ( Rizki Afrili )
 - 👀 I’m interested in NEXT JS, React.JS, Laravel, TAILWIND, MONGODB, MySQL
 - 🌱 I’m currently learning EXPRESS
