@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @R2IProject
-- 👀 I’m interested in NEXT JS , TAILWIND, MONGODB, 
+- 👀 I’m interested in NEXT JS, React.JS, Laravel, TAILWIND, MONGODB, MySQL
 - 🌱 I’m currently learning EXPRESS
