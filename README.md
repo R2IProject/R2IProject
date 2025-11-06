@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @R2IProject ( Rizki Afrili )
-- 👀 I’m interested in NEXT JS, React.JS, Laravel, Django, TAILWIND, MONGODB, MySQL, PostgreSQL
+- 👀 I’m interested in NEXT JS, React.JS, Express, Laravel, Django, TAILWIND, MONGODB, MySQL, PostgreSQL
